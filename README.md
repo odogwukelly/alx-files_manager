@@ -21,5 +21,5 @@ Mocha is used in combination with Chai for testing the app.
 
 `Mocha & Chai
 
-## Authors
-Emediong Francis < odogwukellyice@gmail.com
+## Author 
+odogwu kelly < odogwukellyice@gmail.com >
